@@ -1,0 +1,5 @@
+# PostgreSQL connection settings
+# Update these values to match your environment
+db.url=jdbc:postgresql://localhost:5432/java
+db.username=postgres
+db.password=Athi@183
